@@ -1,0 +1,1 @@
+The real usage of interfaces lies in reducing the dependency between classes. By employing interfaces, we achieve several benefits, including enhanced extensibility, improved testability, and better maintainability of our classes and projects.
